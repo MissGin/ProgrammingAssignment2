@@ -1,4 +1,4 @@
-##Together the f,unctions cache the inverse of a matrix
+##The functions (makeCacheMatrix and cacheSolve) cache the inverse of a matrix
 
 ## Creates a "matrix" object that caches its inverse
 
